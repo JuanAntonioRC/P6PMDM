@@ -10,7 +10,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="166dp"
+        android:layout_height="163dp"
         android:orientation="horizontal">
 
         <ImageView
@@ -26,11 +26,18 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             app:srcCompat="@drawable/persona1" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/ic_launcher" />
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="160dp"
+        android:layout_width="694dp"
+        android:layout_height="180dp"
         android:orientation="horizontal">
 
         <ImageView
@@ -46,12 +53,6 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             app:srcCompat="@mipmap/ic_launcher" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="horizontal">
 
         <ImageView
             android:id="@+id/imageView7"
@@ -59,12 +60,6 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             app:srcCompat="@mipmap/ic_launcher" />
-
-        <ImageView
-            android:id="@+id/imageView8"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            app:srcCompat="@mipmap/ic_launcher" />
     </LinearLayout>
+
 </LinearLayout>

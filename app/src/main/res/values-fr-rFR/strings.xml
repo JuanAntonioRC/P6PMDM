@@ -8,4 +8,5 @@
     <string name="Opcion4">Email</string>
     <string name="nombre">Personne</string>
     <string name="nombre_bloc">Bloc notes</string>
+    <string name="hintEdit">Écris!</string>
 </resources>

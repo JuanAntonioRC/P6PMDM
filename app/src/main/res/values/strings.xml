@@ -7,4 +7,5 @@
     <string name="Opcion4">Mail</string>
     <string name="nombre">Person</string>
     <string name="nombre_bloc">Notepad</string>
+    <string name="hintEdit">Write!</string>
 </resources>
