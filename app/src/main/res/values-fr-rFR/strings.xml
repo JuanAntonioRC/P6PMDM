@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P6PMDM</string>
+    <string name="Opcion2">Personne</string>
+    <string name="Opcion1">Bloc notes</string>
+    <string name="MenuContext">Menu contextuel</string>
+    <string name="Opcion3">Appel</string>
+    <string name="Opcion4">Email</string>
+    <string name="nombre">Personne</string>
+    <string name="nombre_bloc">Bloc notes</string>
+</resources>

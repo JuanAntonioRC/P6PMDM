@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">P6PMDM</string>
-    <string name="Opcion2">Persona</string>
-    <string name="Opcion1">Bloc de notas</string>
-    <string name="MenuContext">Menú contextual</string>
-    <string name="Opcion3">Llamar</string>
-    <string name="Opcion4">Correo</string>
+    <string name="Opcion2">Person</string>
+    <string name="Opcion1">Notepad</string>
+    <string name="MenuContext">Contextual Menu</string>
+    <string name="Opcion3">Call</string>
+    <string name="Opcion4">Mail</string>
+    <string name="nombre">Person</string>
+    <string name="nombre_bloc">Notepad</string>
 </resources>
