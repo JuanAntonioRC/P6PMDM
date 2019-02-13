@@ -8,4 +8,5 @@
     <string name="nombre">Person</string>
     <string name="nombre_bloc">Notepad</string>
     <string name="hintEdit">Write!</string>
+    <string name="add">Add</string>
 </resources>

@@ -51,6 +51,13 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.menu_contextual, menu);
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
 
 
     public boolean onOptionsItemSelected(MenuItem item) {

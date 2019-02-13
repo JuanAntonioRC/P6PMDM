@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".editarPersona"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,12 +19,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Persona"
-            android:label="@string/nombre"/>
-        <activity android:name=".Bloc"
-            android:label="@string/nombre_bloc">
-
-        </activity>
+        <activity
+            android:name=".Persona"
+            android:label="@string/nombre" />
+        <activity
+            android:name=".Bloc"
+            android:label="@string/nombre_bloc"></activity>
     </application>
 
 </manifest>
